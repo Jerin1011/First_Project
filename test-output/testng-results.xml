@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-08T12:39:44 IST" name="Default suite" finished-at="2023-05-08T12:40:12 IST" duration-ms="28730">
+    <groups>
+    </groups>
+    <test started-at="2023-05-08T12:39:44 IST" name="Default test" finished-at="2023-05-08T12:40:12 IST" duration-ms="28730">
+      <class name="org.orangeDemo.TestClasses.AdminPageTest">
+        <test-method signature="adminModuleTest()[pri:0, instance:org.orangeDemo.TestClasses.AdminPageTest@33990a0c]" started-at="2023-05-08T12:39:44 IST" name="adminModuleTest" finished-at="2023-05-08T12:40:12 IST" duration-ms="28700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminModuleTest -->
+      </class> <!-- org.orangeDemo.TestClasses.AdminPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
